@@ -1,9 +1,10 @@
 ---
-layout: recipeshome
-title: Here is the name of your recipe site
-permalink: "/"
+title: "Sweet Student Snacks "
 coverimage: ../uploads/bookcover.jpg
+permalink: /
+layout: recipeshome
 published: true
+date: 2023-01-31T14:50:32.942Z
 ---
 
 Here is an introduction to my recipe site
