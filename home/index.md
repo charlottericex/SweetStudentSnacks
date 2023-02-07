@@ -1,16 +1,18 @@
 ---
 title: "Sweet Student Snacks "
-coverimage: ../uploads/bookcover.jpg
+coverimage: ../uploads/sweet-student-snacks.png
 permalink: /
 layout: recipeshome
 published: true
 date: 2023-01-31T14:50:32.942Z
 ---
-
-Here is an introduction to my recipe site
-
-You should use **markdown** to write this text and this will automatically be converted to `HTML`.
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Student life is filled with challenges, lessons, and hardships; this recipe book aims to fill your life with
+easy, fun, cost-effective sweet treats to enjoy daily!
+From hangover cures to home-cooked delights, this cookbook has it all. Whether you need to feed
+your hungry housemates or you’re in desperate need of a quick pick-me-up after a long day of
+lectures, this book will provide you with simple and exciting treats for you and all your friends to
+enjoy!
+My name is Charlotte Rice, and I am a fellow university student with a sweet tooth – just like you! I
+initially decided to create this book to bring colour into my life, I have always loved baking, but I also
+needed to budget and struggled to do both. So, I designed this book to inspire those who love sweet
+treats, especially student-friendly ones!
