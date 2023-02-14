@@ -1,7 +1,7 @@
 ---
 title: "Post Party Pancakes "
 date: 2022-10-19
-order: 2
+order: 1
 layout: recipe
 published: true
 ---
