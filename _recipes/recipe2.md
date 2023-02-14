@@ -1,32 +1,35 @@
 ---
-layout: recipe
-title: Any Recipe
+title: "Broke Brownies "
 date: 2019-10-19
+order: 2
+layout: recipe
 published: true
-order: 1
 ---
-This introduces the recipe and is a pargaraph of text. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+The best brownies when on a budget! Not only are these quick and easy, but they are perfect for when you have that chocolate craving, and everyone can enjoy them! 
 
-## Ingredients
+*Ingredients*
 
-- prehenderit deserunt veniam sunt et. 
-- Nulla ea est commodo minim quis. 
-- Amet cillum mollit cupidatat sunt tempor qui quis sunt ipsum.
+* 175g [butter](https://www.bbc.co.uk/food/butter), diced
+* 100g [cocoa powder](https://www.bbc.co.uk/food/cocoa)
+* 3 free-range [eggs](https://www.bbc.co.uk/food/egg)
+* 250g [caster sugar](https://www.bbc.co.uk/food/caster_sugar)
+* pinch [salt](https://www.bbc.co.uk/food/salt)
+* 85g [plain flour](https://www.bbc.co.uk/food/plain_flour)
 
-## Method
+*Method*
 
-Veniam culpa ea cillum est qui ullamco velit esse labore. Proident aute irure dolore aliqua dolor reprehenderit duis enim eiusmod. Magna voluptate fugiat nulla sunt nostrud sit. Sit cupidatat cillum culpa sint ex eu.
+STEP 1
 
-Ullamco ullamco voluptate et nostrud aliquip nostrud cillum laboris qui ipsum cillum ad irure. Enim sunt proident cillum consectetur velit nostrud aliquip excepteur consequat officia laboris. Aute est qui exercitation voluptate irure dolor reprehenderit id laborum proident. Lorem eu proident est duis irure non est nostrud.
+Preheat the oven to a 170C/150C fan and line a 20cm/8in a square tin.
 
-Dolore commodo consequat proident adipisicing consectetur ut consequat et enim quis non excepteur cupidatat. Nostrud eiusmod aute proident in ex cupidatat enim. Nulla aliquip mollit incididunt aliqua velit do nisi. Ullamco magna ad culpa dolor sint mollit.
+STEP 2
 
-Ullamco esse Lorem nostrud consectetur elit. Veniam do excepteur exercitation adipisicing aliquip pariatur aliqua tempor minim. Nisi aute ut elit ut labore esse amet veniam ad sint ullamco minim est. Amet id non velit quis sit aliquip reprehenderit nisi ipsum pariatur sint enim reprehenderit. Qui id proident Lorem duis do nulla enim laboris commodo eu in enim esse.
+Put the butter and cocoa powder into a saucepan over low heat, frequently stirring until the butter has melted. Remove from the heat and leave to cool for 2 minutes.
 
-### For the sauce
+STEP 3
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Meanwhile, whisk the eggs, sugar, and salt for about 2 minutes until pale. Add the cocoa powder and butter mixture and stir to combine.
 
+STEP 4
 
-- Serves 10
-- Cooking time 3 hours 
+Sift the flour over the mixture and mix thoroughly. Pour the mixture into the prepared tin, spread level and bake for 18–20 minutes until just firm to the touch. Leave to cool in the tin before cutting into squares.
