@@ -5,7 +5,7 @@ order: 1
 layout: recipe
 published: true
 ---
-
+These super easy pancakes are a great way to treat your friends the morning after a party!
 
 ![Delicious Plate of Toast, Blueberries and Bananas, covered in sticky maple syrup](../uploads/joseph-gonzalez-zcUgjyqEwe8-unsplash.jpg "Photo by Joseph Smart")
 
@@ -13,17 +13,15 @@ published: true
 
 These super easy pancakes are a great way to treat your friends the morning after a party!
 Ingredients
- 
 
 \- 100g plain flour
-- 2 large eggs
-- 300ml milk
-- 1 tbsp sunflower or vegetable oil, plus a little extra for frying
-- Whatever topping you desire!
 
+* 2 large eggs
+* 300ml milk
+* 1 tbsp sunflower or vegetable oil, plus a little extra for frying
+* Whatever topping you desire!
 
 ## **Method**
-
 
 STEP 1
 Put 100g plain flour, 2 large eggs, 300 ml milk, 1 tbsp sunflower or vegetable oil and a pinch of salt
