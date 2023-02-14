@@ -7,16 +7,16 @@ published: true
 ---
 The best brownies when on a budget! Not only are these quick and easy, but they are perfect for when you have that chocolate craving, and everyone can enjoy them! 
 
-*Ingredients*
+## Ingredients
 
-* 175g [butter](https://www.bbc.co.uk/food/butter), diced
-* 100g [cocoa powder](https://www.bbc.co.uk/food/cocoa)
-* 3 free-range [eggs](https://www.bbc.co.uk/food/egg)
-* 250g [caster sugar](https://www.bbc.co.uk/food/caster_sugar)
-* pinch [salt](https://www.bbc.co.uk/food/salt)
-* 85g [plain flour](https://www.bbc.co.uk/food/plain_flour)
+* 175g butter, diced
+* 100g cocoa powder
+* 3 free-range eggs
+* 250g caster sugar
+* pinch salt
+* 85g plain flour
 
-*Method*
+## Method
 
 STEP 1
 
