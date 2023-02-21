@@ -20,7 +20,7 @@ Flapjacks are always fun; you can spruce them up however you like! For this reci
 
 ## Method 
 
-STEP 1
+**STEP 1**
 
 Preheat the oven to 150C/130C Fan and line a 20cm/8in a square tin with baking paper.
 
