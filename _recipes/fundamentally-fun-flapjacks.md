@@ -13,7 +13,7 @@ Flapjacks are always fun; you can spruce them up however you like! For this reci
 * 175g light muscovado sugar
 * 350g porridge oats
 
-![](../uploads/photo-1550436566-df63e63a1585.jpeg)
+![](../uploads/photo-1550436566-df63e63a1585.jpeg "Fundamentally Fun Flapjacks ")
 
 ## Method 
 
