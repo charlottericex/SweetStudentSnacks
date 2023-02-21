@@ -13,7 +13,7 @@ Flapjacks are always fun; you can spruce them up however you like! For this reci
 * 175g light muscovado sugar
 * 350g porridge oats
 
-## Method 
+## ![chocolate cakes](https://images.unsplash.com/photo-1550436566-df63e63a1585?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1000&q=80)Method 
 
 STEP 1
 
