@@ -6,6 +6,8 @@ layout: recipe
 ---
 In the cost-of-living crisis, we must find ways to cheer ourselves up, no matter how small the gesture is. Baking cookies for your friends or family is bound to make you and everyone feel good; even better, they taste delicious too! 
 
+![person holding white ceramic mug with coffee](https://images.unsplash.com/photo-1586714932157-5853aed2e64b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1000&q=80)
+
 ## Ingredients 
 
 * 225g butter, softened
