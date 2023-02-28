@@ -4,7 +4,7 @@ date: 2023-02-14T12:59:03.716Z
 order: 3
 layout: recipe
 ---
-Flapjacks are always fun; you can spruce them up however you like! For this recipe, I implore you to get creative; whether you add chocolate chunks, cinnamon, or raisins, make these flapjacks your own!
+**Flapjacks are always fun; you can spruce them up however you like! For this recipe, I implore you to get creative; whether you add chocolate chunks, cinnamon, or raisins, make these flapjacks your own!**
 
 ![](../uploads/flapjack.jpg "Fundamentally Fun Flapjacks ")
 
