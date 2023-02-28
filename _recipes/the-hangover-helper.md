@@ -4,9 +4,9 @@ date: 2023-02-07T15:10:27.927Z
 order: 5
 layout: recipe
 ---
-Feeling like your head might explode? This is the smoothie for you. Not only is it packed with
+**Feeling like your head might explode? This is the smoothie for you. Not only is it packed with
 vitamins to revive you, but it is also the perfect sweet treat to get you pumped and ready for the
-day.
+day.**
 
 ![](../uploads/alex-lvrs-jjkeqgcnzs4-unsplash.jpg "The Hangover Helper ")
 
