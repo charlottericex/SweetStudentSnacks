@@ -5,7 +5,7 @@ order: 4
 layout: recipe
 published: true
 ---
-The best brownies when on a budget! Not only are these quick and easy, but they are perfect for when you have that chocolate craving, and everyone can enjoy them! 
+**The best brownies when on a budget! Not only are these quick and easy, but they are perfect for when you have that chocolate craving, and everyone can enjoy them!** 
 
 ![](../uploads/azmaan-baluch-bjsyx2m5hbc-unsplash.jpg "Broke Brownies")
 
