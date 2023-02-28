@@ -1,6 +1,8 @@
 /*! CSS bare bones for recipes site */
 
 @import url('https://fonts.cdnfonts.com/css/bebas-neue'); 
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200&display=swap');
+
 
 html {
   font-family: sans-serif;
@@ -21,10 +23,11 @@ html {
 padding-top: 10px;
 background-color: white;
 border: 1px solid black;
+font-size: 1.2em;
+word-spacing: 0.15em;
+line-height: 1.5em;
 
 }
-
-
 
 .site-title
 {
@@ -46,8 +49,9 @@ h1 {
 p {
   color:black;
   margin-bottom: 1em;
-
+  font-family: 'Montserrat', sans-serif;
   border-spacing: 5px;
+  margin: 5px;
 }
 
 main { 
@@ -79,14 +83,22 @@ font-size: .8em;
   width:60%
 }
 
-body
-{background-color: beige;}
+body {
+  background-color: beige;
+
+
+}
 
 button
-{background-color: pink;
-text-align: center;
-font-size: 12px;
-border: 2px solid rgb(210, 58, 212);
+{ width: 300px;
+  background-color: beige;
+}
+
+button a {
+  text-decoration: none;
+  font-family: 'Montserrat', sans-serif;
+  font-size: medium;
+  color: black;
 }
 
 li {
@@ -102,9 +114,11 @@ margin: 15px;
 }
 
 
-.site-title
+.site-title a 
 {
+  color: ;
 text-decoration: none;
+color: antiquewhite;
 }
 
 .site-title:link
@@ -136,4 +150,25 @@ text-align: left;
 {
 text-align: left;
 align-items: left;
+}
+
+@media screen and {max-width: 700px;} {
+  
+  nav{
+    margin:0;
+    position: static;
+    width: 100%;
+  }
+  
+  nav ul {
+    font-size: 1rem; 
+  }
+
+  main{
+    width:100%
+  }
+
+  body{
+    width: 100px;
+  }
 }
