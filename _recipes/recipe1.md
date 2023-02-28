@@ -7,6 +7,8 @@ published: true
 ---
 These super easy pancakes are a great way to treat your friends the morning after a party!
 
+![](../uploads/eiliv-aceron-exytirxyqm0-unsplash.jpg "Post Party Pancakes")
+
 ## Ingredients
 
 100g plain flour 
@@ -18,10 +20,6 @@ These super easy pancakes are a great way to treat your friends the morning afte
 1 tbsp sunflower or vegetable oil, plus a little extra for frying 
 
 Whatever topping you desire! 
-
-These super easy pancakes are a great way to treat your friends the morning after a party!
-
-![](../uploads/eiliv-aceron-exytirxyqm0-unsplash.jpg "Post Party Pancakes")
 
 ## **Method**
 
