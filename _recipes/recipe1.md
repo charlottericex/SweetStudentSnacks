@@ -22,7 +22,9 @@ These super easy pancakes are a great way to treat your friends the morning afte
 Whatever topping you desire! 
 
 These super easy pancakes are a great way to treat your friends the morning after a party!
-Ingredients
+
+
+
 
 ## **Method**
 
