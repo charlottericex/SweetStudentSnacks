@@ -14,12 +14,11 @@ These super easy pancakes are a great way to treat your friends the morning afte
 These super easy pancakes are a great way to treat your friends the morning after a party!
 Ingredients
 
-\- 100g plain flour
-
-* 2 large eggs
-* 300ml milk
-* 1 tbsp sunflower or vegetable oil, plus a little extra for frying
-* Whatever topping you desire!
+\- 100g plain flour\
+- 2 large eggs\
+- 300ml milk\
+- 1 tbsp sunflower or vegetable oil, plus a little extra for frying\
+- Whatever topping you desire!
 
 ## **Method**
 
