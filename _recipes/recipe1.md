@@ -5,7 +5,7 @@ order: 1
 layout: recipe
 published: true
 ---
-These super easy pancakes are a great way to treat your friends the morning after a party!
+**These super easy pancakes are a great way to treat your friends the morning after a party!**
 
 ![](../uploads/eiliv-aceron-exytirxyqm0-unsplash.jpg "Post Party Pancakes")
 
