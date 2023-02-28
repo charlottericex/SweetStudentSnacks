@@ -9,12 +9,17 @@ The best brownies when on a budget! Not only are these quick and easy, but they 
 
 ## Ingredients
 
-* 175g butter, diced
-* 100g cocoa powder
-* 3 free-range eggs
-* 250g caster sugar
-* pinch salt
-* 85g plain flour
+175g butter, diced
+
+100g cocoa powder
+
+3 free-range eggs
+
+250g caster sugar
+
+A pinch salt
+
+85g plain flour
 
 ## Method
 
