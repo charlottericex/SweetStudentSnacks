@@ -26,6 +26,8 @@ These super easy pancakes are a great way to treat your friends the morning afte
 
 
 
+
+
 ## **Method**
 
 **STEP 1**
