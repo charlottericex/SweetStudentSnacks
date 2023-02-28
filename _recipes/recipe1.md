@@ -31,7 +31,7 @@ Ingredients
 Put 100g plain flour, 2 large eggs, 300 ml milk, 1 tbsp sunflower or vegetable oil and a pinch of salt
 into a bowl or large jug, then whisk to a smooth batter. Then set aside for 30 mins to rest.
 
-##### **STEP 2**
+**STEP 2**
 
 Set a medium frying pan over medium heat and carefully wipe it with some oiled kitchen paper.
 
