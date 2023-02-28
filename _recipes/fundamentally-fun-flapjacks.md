@@ -6,6 +6,8 @@ layout: recipe
 ---
 Flapjacks are always fun; you can spruce them up however you like! For this recipe, I implore you to get creative; whether you add chocolate chunks, cinnamon, or raisins, make these flapjacks your own!
 
+![](../uploads/flapjack.jpg "Fundamentally Fun Flapjacks ")
+
 ## Ingredients 
 
  175g butter
@@ -15,8 +17,6 @@ Flapjacks are always fun; you can spruce them up however you like! For this reci
 175g light muscovado sugar
 
 350g porridge oats
-
-![](../uploads/flapjack.jpg "Fundamentally Fun Flapjacks ")
 
 ## Method 
 
